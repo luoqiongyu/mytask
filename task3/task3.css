@@ -1,0 +1,54 @@
+@charset "utf-8";
+html {
+    font-family: Microsoft YaHei, serif;
+    font-size: 60%;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 50%;
+    margin:1% 25% 1% 25%;
+    background-color: #68cdd5;
+}
+
+.icon-back {
+    width: 10%;
+    padding: 2%;
+}
+
+.icon-logo {
+    padding: 1% 30% 1% 30%;
+}
+
+.content {
+    width: 72%;
+    padding:15%;
+    font-size: 3rem;
+    line-height: 5rem;
+    color: #fff;
+}
+
+.footer {
+    overflow:hidden;
+    padding-bottom: 10rem;
+
+}
+
+.icon-footer {
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 2.4rem;
+    line-height: 5.4rem;
+    text-align: center;
+    color: #fff;
+}
+
+
